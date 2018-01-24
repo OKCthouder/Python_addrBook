@@ -29,7 +29,6 @@ class addrBook:
             if option =='add':
                 pass
             else:
-                raise
                 print('The addressBook is Empty.')
                 f.close()
                 sys.exit()
