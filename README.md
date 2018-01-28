@@ -8,5 +8,5 @@
 
 #### how to run the program?
 1. win+R open the cmd
-2. cd the your path
+2. cd to your path
 3. python addrBook1.py --help
